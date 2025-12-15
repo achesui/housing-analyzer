@@ -1,4 +1,4 @@
-# Analziador de viviendas
+# Analizador de viviendas
 
 una implementacion simple de una red neuronal en Rust para predecir precios de casas.
 construida desde cero (sin librerias) utilizando regresión lineal y descenso del gradiente, el modelo toma metros cuadrados y cantidad de habitaciones para hacer las predicciones
